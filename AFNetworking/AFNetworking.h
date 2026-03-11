@@ -38,4 +38,6 @@
     #import "AFURLSessionManager.h"
     #import "AFHTTPSessionManager.h"
 
+    #import "AFNetworking+DNS.h"
+
 #endif /* _AFNETWORKING_ */
